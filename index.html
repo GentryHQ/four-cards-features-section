@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <!-- -----LInk For AOS library --------->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+  <title>Frontend Mentor | Four card feature section</title>
+
+ 
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Reliable, efficient delivery <br><span class="heading">Powered by Technology<span></span></h1>
+      <p>Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful</p>
+    </div>
+  </header>
+
+  <!-- -----Cards----- -->
+  <main>
+    <div class="container cards" >
+      <div class="card card1" data-aos="fade-up-right">
+        <h3>Supervisor</h3>
+        <p>Monitors activity to identify project roadblocks</p>
+        <img src="./images/icon-supervisor.svg" alt="Supervisor" class="icon">
+      </div>
+      <div class="card card2" data-aos="fade-down">
+        <h3>Team Builder</h3>
+        <p>Scans our talent network to create the optimal team for your project</p>
+        <img src="./images/icon-team-builder.svg" alt="Team Builder" class="icon">
+      </div>
+      <div class="card card3" data-aos="fade-up">
+        <h3>Karma</h3>
+        <p>Regularly evaluates our talent to ensure quality</p>
+        <img src="./images/icon-karma.svg" alt="Karma" class="icon">
+      </div>
+      <div class="card card4" data-aos="fade-up-left">
+        <h3>Calculator</h3>
+        <p>Uses data from past projects to provide better delivery estimates</p>
+        <img src="./images/icon-calculator.svg" alt="Supervisor" class="icon">
+      </div>
+    </div>
+  </main>
+
+  <!-- -----Link for AOS library CDN JS------ -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>AOS.init();</script>
+</body>
+</html>
