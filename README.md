@@ -27,15 +27,20 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop View
+
 ![Desktop View](./screenshots/DesktopView.png)
+
+Mobile View
+
 ![Mobile View](./screenshots/MobileView.png)
 
 
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/GentryHQ)
-- Live Site URL: [Github Pages](#)
+- Solution URL: [Github Repo](https://github.com/GentryHQ/four-cards-features-section)
+- Live Site URL: [Github Pages](https://gentryhq.github.io/four-cards-features-section/)
 
 ## My process
 
@@ -82,4 +87,4 @@ I'd love to explore more animation in the future. I'll like to try out more libr
 
 ## Acknowledgments
 
-```**Thank You!**```
+``` **Thank You!** ```
