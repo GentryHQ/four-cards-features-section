@@ -52,6 +52,7 @@ header p {
     padding-top: 20px;
     max-width: 500px;
     margin: auto;
+    line-height: 1.5;
 }
 
 /* ------cards------- */
