@@ -21,6 +21,7 @@
 body {
     background: var(--Very-Light-Gray);
     overflow: hidden;
+    width:100%;
 }
 
 p {
@@ -29,7 +30,7 @@ p {
 
 .container {
     max-width: 1200px;
-    padding: 50px 2rem;
+    padding: 50px 20px;
     margin: 0 auto;
 }
 
